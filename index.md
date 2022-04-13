@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+La idea de este blog es compartir aquello que voy aprendiendo en el dia a dia, bien sea por medio de laboratorios, estudiando, leyendo sobre nuevos releases.
+Espero que sea de utilidad.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
